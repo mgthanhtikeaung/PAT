@@ -1,0 +1,66 @@
+(I)Useful Cli
+===============
+
+1)Introduction to
+https://youtu.be/sq16qmdFqvk
+
+2)Learn Linux Command:Part 1
+https://youtu.be/WVqDpvoGR0w
+
+3)Learn Linux Command:Part 2
+https://youtu.be/32gDrxCIx7M
+
+4)Prepare For Git Lessen
+https://youtu.be/G9dSrRYgFjI
+
+(II)Learn Git
+
+1)Introduction to Git & Github
+https://youtu.be/rlmpJjXmRDo
+
+2)Create Github Account
+https://youtu.be/sFkIV4cpqz4
+
+3)Git Command Basic
+https://youtu.be/UPDFJdHnups
+
+4)Personal Access Token
+https://youtu.be/sNCh3tGAtyE
+
+5)Git Clone & Git Pull
+https://youtu.be/pFd7Lo9FQsc
+
+6)Tag & Release
+https://youtu.be/4hs4bbXu0Ls
+
+7)Git Ignore
+https://youtu.be/S0htJltYw4Q
+
+8)Git Branch
+https://www.youtube.com/watch?v=dBqGVoPcBoY
+
+9)Git Merge : Part 1
+https://youtu.be/rN4g14_pJYA
+
+10)Git Merge : Part 2
+https://youtu.be/czl2Dl8VKfk
+
+11)Collaborators & Privacy
+https://youtu.be/eToyw2kidYY
+
+12)Conclusion
+https://youtu.be/8nwxTQ5nMh0
+
+(III)Learn More
+
+1)Netlify & VPS
+https://youtu.be/wRV5eZX7c88
+
+2)Host On Github
+https://youtu.be/pEWZtoBDiL8
+
+3)Working with Text Editor & IDE
+https://youtu.be/c5-e_ZoXlJs
+
+
+               DONE
